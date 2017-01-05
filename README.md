@@ -1,2 +1,2 @@
 # Discord.Spotify
-Spotify Selfbot for Discord
+Super simple Spotify Selfbot for Discord
